@@ -1,9 +1,13 @@
 _repo: The-Story-of-Joan-of-Arc_48470
+_version: 0.1.0
 contributor:
   illustrator:
     agent_name: Jellicoe, J.
     gutenberg_agent_id: '44812'
     url: http://www.gutenberg.org/2009/agents/44812
+covers:
+- cover_type: archival
+  image_path: 48470-h/images/cover.jpg
 creator:
   author:
     agent_name: Lang, Andrew
@@ -14,6 +18,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/79
     wikipedia: http://en.wikipedia.org/wiki/Andrew_Lang
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/48470#The-Story-of-Joan-of-Arc
 gutenberg_issued: '2015-03-12'
 gutenberg_type: Text
 identifiers:
